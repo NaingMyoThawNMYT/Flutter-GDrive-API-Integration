@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "807179582680",
+    "firebase_url": "https://flutter-gdrive-api-integration.firebaseio.com",
+    "project_id": "flutter-gdrive-api-integration",
+    "storage_bucket": "flutter-gdrive-api-integration.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807179582680:android:e494bd9022ce7a0750ebad",
+        "android_client_info": {
+          "package_name": "com.example.flutter_gdrive_api_integration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807179582680-7m6icrss04evk2vgm08rtr0nmg9n04i4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_gdrive_api_integration",
+            "certificate_hash": "15bd50d1efd27c583da348e68e5c9611fe631fdb"
+          }
+        },
+        {
+          "client_id": "807179582680-hpmsjp2ilhgr4mfv6ur2f3vhnvhdpjrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn8KrBhzy9dAsabkWFpLHWHgCRTe4vAtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807179582680-hpmsjp2ilhgr4mfv6ur2f3vhnvhdpjrm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
